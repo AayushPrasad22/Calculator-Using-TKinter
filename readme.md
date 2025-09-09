@@ -45,10 +45,3 @@ Output screen : [Addition of Two Numbers]
 <img width="367" height="537" alt="addition initialization" src="https://github.com/user-attachments/assets/64ecd21e-aef3-4a55-b5ec-fc6d1e7fd74a" />
 
 <img width="371" height="535" alt="addition complete" src="https://github.com/user-attachments/assets/44bd10b0-1cf3-4afd-a8dd-8e465741e565" />
-<<<<<<< HEAD
-=======
-
-```
->>>>>>> 076fa44e3b81e96296204e3fa33a52201f187cb9
-
-
