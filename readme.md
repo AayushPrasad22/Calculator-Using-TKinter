@@ -37,7 +37,7 @@ python calculator.py
 
 ```
 My Calculator UI:
-
+```
 <img width="372" height="537" alt="static state" src="https://github.com/user-attachments/assets/0fa7270a-670d-4658-a59a-357922f5a01b" />
 
 Output screen : [Addition of Two Numbers]
@@ -46,15 +46,16 @@ Output screen : [Addition of Two Numbers]
 
 <img width="371" height="535" alt="addition complete" src="https://github.com/user-attachments/assets/44bd10b0-1cf3-4afd-a8dd-8e465741e565" />
 
+
+---
 ```
-```
-🔮 Future Improvements
+##🔮 Future Improvements
 
 ->Add support for decimal numbers
 
 ->Implement advanced operations (√, %, x², etc.)
 
-=>Improve UI with colors and themes
+->Improve UI with colors and themes
 
 📜 License
 
