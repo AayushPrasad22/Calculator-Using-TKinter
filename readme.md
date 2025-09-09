@@ -46,6 +46,4 @@ Output screen : [Addition of Two Numbers]
 
 <img width="371" height="535" alt="addition complete" src="https://github.com/user-attachments/assets/44bd10b0-1cf3-4afd-a8dd-8e465741e565" />
 
-```
-
 
