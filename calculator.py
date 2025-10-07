@@ -1,5 +1,5 @@
 import tkinter as tk
-
+# Function starts from here 
 def click(event):
     global expression
     text = event.widget.cget("text")
